@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Conti",
+				"ContingentId"
+			],
+			[
+				"update",
+				"UPDATE"
+			],
+			[
+				"D",
+				"DeactivatedId"
+			],
+			[
+				"Te",
+				"TemplateTypeId"
+			],
+			[
+				"OfferType",
+				"OfferTypeId"
+			],
+			[
+				"ta",
+				"tableName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/m.achucarro/Documents/Dev/sharfin-basic"
+	],
+	"file_history":
+	[
+		"/C/Users/m.achucarro/Documents/Dev/sharfin-basic/package.json",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/Create/Create_2.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/TestData/TestDataFull_2.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/TestData/TestData.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/Create/test.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/Create/Create.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/Delete/Delete.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/Database/TestData/TestData_2.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/auftrag/default.asp",
+		"/C/Users/m.achucarro/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/8VVI0O1P/jobs.txt",
+		"/C/Users/m.achucarro/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/8VVI0O1P/jobs (002).txt",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Data/Data.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/Documents/README.txt",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilVerwaltung.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsKundendienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilEmailVersand.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofildienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/firmenprofil/verlaengern/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/firmenprofil/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilPreisdienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/merge/CompanyProfileManager.cs",
+		"/C/Users/m.achucarro/Documents/Dev/merge/CompanyProfileData.cs",
+		"/C/Users/m.achucarro/Documents/Dev/merge/CompanyProfileRepository.cs",
+		"/C/Users/m.achucarro/Documents/Dev/merge/Queries.cs",
+		"/C/Users/m.achucarro/Documents/Dev/merge/SareModel.edmx",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Guidelines.md",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/firmenprofil/aktivierunganfordern/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/firmenprofil/abgelaufen/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsResellerVerwaltung.asp",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/test/This Could Be Better.html",
+		"/C/Users/m.achucarro/Downloads/testfile.txt",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/source/Sa.Reseller.Tests/Sa.Reseller.Tests.csproj",
+		"/C/Users/m.achucarro/Downloads/app (5).config",
+		"/C/Users/m.achucarro/Downloads/Web.config",
+		"/C/Users/m.achucarro/Downloads/app (4).config",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/source/.nuget/NuGet.Config",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/firmenprofil/deaktivieren/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsResellerdienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilLogfiledienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/inserent.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsKundenverwaltung.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsKundeResellerSegaProdukt.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/produkt/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Coffeeshop/common/models/review.js",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/CoffeeShops/common/models/reviewer.json",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/CoffeeShops/common/models/reviews.js",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/CoffeeShops/common/models/reviewer.js",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/CoffeeShops/server/middleware.json",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/coffee-shop.js",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/create-sample-models.js",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/index.html",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Coffeeshop/server/middleware.json",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Coffeeshop/server/component-config.json",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Coffeeshop/server/config.json",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Coffeeshop/server/server.js",
+		"/C/Users/m.achucarro/Documents/Dev/WebAndWine/Coffeeshop/server/model-config.json",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsAuftragsdienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/sega/topjob/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/sega/ladereseller/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsAuftrag.asp",
+		"/C/Users/m.achucarro/Documents/Dev/VMs/Windows 8.1 plain/Windows 8.1 plain.vbox",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint28.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint31.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint29.sql",
+		"/C/Users/m.achucarro/Downloads/app.config",
+		"/C/Users/m.achucarro/Downloads/App (1).config",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/source/Sega.Tests/bin/sega.stabilization/Sega.Tests.dll.config",
+		"/C/Users/m.achucarro/Downloads/Sega.Tests.dll.config",
+		"/C/Users/m.achucarro/Downloads/App (2).config",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint27.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/webservice/sega/ladekunden/default.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilLaufzeitdienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilPreis.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsSession.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsSessiondienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsFirmenprofilTypDienst.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsSegaDetails.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/segaeinladungen.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint30.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-Reseller/reseller_v1/asp/class/clsReseller.asp",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Delete/Delete.sql",
+		"/C/Users/m.achucarro/Downloads/index.json",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint26.sql",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/source/Sega.Web/Sega.Web.csproj",
+		"/C/Users/m.achucarro/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/8VVI0O1P/email.txt",
+		"/C/Users/m.achucarro/Documents/script.sql",
+		"/C/Users/m.achucarro/Downloads/jQuery.dotdotdot-master/jQuery.dotdotdot-master/README.md",
+		"/C/Users/m.achucarro/Downloads/jquery-ellipsis-master/jquery-ellipsis-master/README.md",
+		"/C/Users/m.achucarro/Documents/Xitaso.json.postman_collection",
+		"/C/Users/m.achucarro/Downloads/jQuery.dotdotdot-master/jQuery.dotdotdot-master/package.json",
+		"/C/Users/m.achucarro/Downloads/jQuery.dotdotdot-master/jQuery.dotdotdot-master/dotdotdot.jquery.json",
+		"/C/email/defe1405-eb74-4437-8e8e-f82254ec5df2.eml",
+		"/C/Users/m.achucarro/Documents/IISExpress/config/applicationhost.config",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/source/Sega.Web/Sega.Web.csproj.user",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint23.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/Update/Update-sprint25.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/TestData/TestData-Offers.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/TestData/TestData-NOZ.sql",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/source/Sega.Infrastructure/Sega.Infrastructure.DataPersistance/SegaModel.edmx",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/source/Sega.Tests/Infrastructure/InitEmptyDb.cs",
+		"/C/Users/m.achucarro/Documents/Dev/Stellenanzeigen.de-SEGA/dbscripts/TestData/TestData-XITASO.sql"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 141.0,
+		"where_history":
+		[
+			"<current file>",
+			"C:\\Users\\m.achucarro\\Documents\\Dev\\Stellenanzeigen.de-Reseller\\Database",
+			"",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"`reseller` ",
+			"reseller",
+			"`[a-z]{3,}+`\\.",
+			"`[a-z]+`\\.",
+			"`reseller`.",
+			"join `segaprodukt",
+			"join `segaeinladung",
+			"join `resellersegadetails",
+			"join `resellerproduktlaufzeiten",
+			"join `resellerprodukt",
+			"join `reseller_segaprodukt",
+			"join `resellermaster",
+			"join `reseller",
+			"join `positionrubrikgruppe",
+			"join `positioneigenschaft",
+			"join `produkttyp",
+			"join `produkt",
+			"join `produktvariante",
+			"join `position",
+			"position",
+			"produktvariante",
+			"produkt",
+			"auftrag",
+			"kunde",
+			"firmenprofil",
+			"reseller_test",
+			"PositionEigenschaft",
+			"position",
+			";",
+			"\\n",
+			" ",
+			"\\n",
+			"reseller_test",
+			"view_firmenprofil",
+			"view_topunternehmen",
+			"view_topjob",
+			"view_offeneauftraegesegapremium",
+			"view_offeneauftraegeregio_ausser5und6",
+			"view_offeneauftraegeregio2",
+			"view_offeneauftraegeregio",
+			"view_offeneauftraegepremium",
+			"view_mehrfachpositionen",
+			"view_firmenprofil",
+			"(?:`reseller`.)(`[\\w]+`.`[\\w]+`)",
+			"`reseller`.`[\\w]+`.`[\\w]+`",
+			"`reseller`.",
+			"IDTyp",
+			"(3,4,5,6)",
+			"in (3,4,5,6)",
+			"view_offeneAuftraegeSegaPremium",
+			"use",
+			"`reseller`.`produkt`.`IDVariante`",
+			"IDVariante",
+			"CREATE ALGORITHM=UNDEFINED DEFINER=`reseller`@`%` SQL SECURITY DEFINER VIEW `view_offeneAuftraegePremium`",
+			"reseller.produkt.IDVariante",
+			"IDVariante",
+			"admin",
+			"view_firmenprofil",
+			"view_topunternehmen",
+			"view_topjob",
+			"view_offeneauftraegesegapremium",
+			"view_offeneauftraegeregio_ausser5und6",
+			"view_offeneauftraegeregio2",
+			"view_offeneauftraegeregio",
+			"view_offeneauftraegepremium",
+			"view_mehrfachpositionen",
+			"alsAbgelaufenMark",
+			"getKundeOhneSession",
+			"Erstellen",
+			"DeaktiviereAktivesBasisFirmenprofil",
+			"AktivierungAnfordern",
+			"VersendeVerlaengertmail",
+			"Verlaengern",
+			"\\\\r\\\\n",
+			"IstFirmenprofilInLaufzeit",
+			"\\\\",
+			"\\\\r\\\\n",
+			",",
+			"\\\"",
+			"\\\\\\\\",
+			"\\\\\\\\r\\\\\\\\n",
+			", ",
+			",",
+			"ResellerMaster",
+			"DeaktiviereAktivesBasisFirmenprofil",
+			"AktivierungAnfordern",
+			"DarfBasisprofilAktivierungAnfordern",
+			"AktivierungAnfordern",
+			"DeaktiviereAktivesBasisFirmenprofil",
+			"jenkins",
+			"[PORTALNAME]",
+			"sare.jenkins",
+			"ReplacePlaceholders",
+			"FirmenprofilLogfiledienst",
+			"ErstelleLog",
+			"UpdateStatus",
+			"FIRMENPROFIL_STATUS_AKTIVIERUNG_ANFORDERN",
+			"UpdateStatus",
+			"Firmenprofildienst",
+			"UpdateKunde",
+			"clsReseller",
+			"getSegaAuftraegeOhneSession",
+			"getSegaKundeOhneSession",
+			"\\r?\\n",
+			"\\n",
+			"DoReplacesSegaTextHTML",
+			"mysqlDs",
+			"mongoDs",
+			"getAuftraegeIntern",
+			"GetAuftraegeIntern",
+			"getSegaAuftraegeOhneSession",
+			"CompanyProfileSubscriptionRequestEmail",
+			" = .*",
+			"DoReplacesSegaTextHTML",
+			"reseller",
+			";",
+			"= ",
+			";",
+			"^[ ]+.*",
+			".+/// Column: (.+)",
+			"[\\t ]",
+			" \\{.*\\}",
+			"public \\w+ ",
+			"//.*",
+			"///.*",
+			",",
+			")",
+			"(?:\\()([^\\)]+)(?:\\)[^\\(]+\\()([^\\)]+)(?:\\).+)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"`Reseller` ",
+			"`Reseller`.",
+			"join `ResellerSegadetails",
+			"join `ResellerProdukt",
+			"join `ResellerMaster",
+			"join `Reseller",
+			"join `PositionRubrikgruppe",
+			"join `ProduktTyp",
+			"join `ProduktVariante",
+			"join `Position",
+			"Position",
+			"ProduktVariante",
+			"Produkt",
+			"Auftrag",
+			"Kunde",
+			",",
+			"",
+			",",
+			"view_Firmenprofil",
+			"view_TopUnternehmen",
+			"view_TopJob",
+			"view_offeneAuftraegeSegaPremium",
+			"view_offeneAuftraegeRegio_Ausser5und6",
+			"view_offeneAuftraegeRegio2",
+			"view_offeneAuftraegeRegio",
+			"view_offeneAuftraegePremium",
+			"view_mehrfachPositionen",
+			"view_Firmenprofil",
+			"$1",
+			"reseller",
+			"view_Firmenprofil",
+			"view_TopUnternehmen",
+			"view_TopJob",
+			"view_offeneAuftraegeSegaPremium",
+			"view_offeneAuftraegeRegio_Ausser5und6",
+			"view_offeneAuftraegeRegio2",
+			"view_offeneAuftraegeRegio",
+			"view_offeneAuftraegePremium",
+			"view_mehrfachPositionen",
+			"\\n",
+			"\\",
+			"\\n",
+			",\\n",
+			"\"",
+			"\\",
+			"\\n",
+			"<br/>",
+			"\\r\\n",
+			"msCoffee",
+			"mongoCoffee",
+			"",
+			"responseData",
+			"\\n",
+			"= \"",
+			"\\n",
+			"",
+			"$1",
+			"",
+			" = \\n",
+			"$1\\n$2",
+			"",
+			" = \\n",
+			"66",
+			"\\n",
+			"\\r\\n",
+			" ",
+			"",
+			"$1",
+			"",
+			"\\n",
+			"",
+			" ",
+			",\\n",
+			"$1",
+			"$2",
+			"$1",
+			"",
+			"$1",
+			"'",
+			"segatest.stellenanzeigen.de",
+			"",
+			"$1",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sharfin-basic.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clskunded",
+				"asp\\class\\clsKundendienst.asp"
+			],
+			[
+				"firmenprofildienst",
+				"asp\\class\\clsFirmenprofildienst.asp"
+			],
+			[
+				"firprove",
+				"asp\\class\\clsFirmenprofilVerwaltung.asp"
+			],
+			[
+				"firmenprofilverwaltung",
+				"asp\\class\\clsFirmenprofilVerwaltung.asp"
+			],
+			[
+				"clsfirmenprofilverwaltung",
+				"asp\\class\\clsFirmenprofilVerwaltung.asp"
+			],
+			[
+				"clsfirmenprofilemailversand",
+				"asp\\class\\clsFirmenprofilEmailVersand.asp"
+			],
+			[
+				"clsresellerdienst",
+				"asp\\class\\clsResellerdienst.asp"
+			],
+			[
+				"clsresellerverwaltung",
+				"asp\\class\\clsResellerVerwaltung.asp"
+			],
+			[
+				"clsfirmenprofillogfiledienst",
+				"asp\\class\\clsFirmenprofilLogfiledienst.asp"
+			],
+			[
+				"in",
+				"inserent.asp"
+			],
+			[
+				"clskundendienst",
+				"asp\\class\\clsKundendienst.asp"
+			],
+			[
+				"clskunderesellersegaprodukt",
+				"asp\\class\\clsKundeResellerSegaProdukt.asp"
+			],
+			[
+				"inseret",
+				"inserent.asp"
+			],
+			[
+				"clsauftragsdienst",
+				"asp\\class\\clsAuftragsdienst.asp"
+			],
+			[
+				"clsauftrag",
+				"asp\\class\\clsAuftrag.asp"
+			],
+			[
+				"/ladereseller/default.asp",
+				"webservice\\sega\\ladereseller\\default.asp"
+			],
+			[
+				"clsfirmenprofilpreis",
+				"asp\\class\\clsFirmenprofilPreis.asp"
+			],
+			[
+				"clsfirmenprofillaufzeitdienst",
+				"asp\\class\\clsFirmenprofilLaufzeitdienst.asp"
+			],
+			[
+				"clsfirmenprofilpreisdienst",
+				"asp\\class\\clsFirmenprofilPreisdienst.asp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
